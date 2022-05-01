@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "main.2f4d7fec.css",
+    "main.js": "main.08888dd4.js",
+    "bg-services.png": "bg-services.bd74e5064d7f11149504.png",
+    "bg-offer.png": "bg-offer.155afd0fb441e38bfdaf.png",
+    "logo-rounded.png": "logo-rounded.3a23787cb4fefcc5ef54.png",
+    "contact-image.png": "contact-image.46b52c4a8a3a35371621.png",
+    "escolta-1.png": "escolta-1.d6f5bcc200bdc388c802.png",
+    "bg-contact.png": "bg-contact.0f1695a6b45765a24e0d.png",
+    "bg-hero.png": "bg-hero.cdf0096f8af20a46f6b6.png",
+    "circulo-hero.png": "circulo-hero.18e59d2c253f760df343.png",
+    "usa-flag.svg": "usa-flag.288274b1069342c5a768a4d300742cfa.svg",
+    "index.html": "/index.html",
+    "mex-flag.svg": "mex-flag.e3a5335b2f5e9f4e19f66195a6e5e0c2.svg",
+    "main.2f4d7fec.css.map": "main.2f4d7fec.css.map",
+    "main.08888dd4.js.map": "main.08888dd4.js.map"
+  },
+  "entrypoints": [
+    "main.2f4d7fec.css",
+    "main.08888dd4.js"
+  ]
+}
