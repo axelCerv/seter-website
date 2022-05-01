@@ -1,0 +1,22 @@
+{
+    "navmenu": {
+        "item1": "About Us",
+        "item2": "Custody",
+        "item3": "Intramural",
+        "item4": "Armed Guard",
+        "item5": "Guards",
+        "item6": "Monitoring"
+    },
+    "footer":{
+        "cookies":"Cookies policy",
+        "blog":"blog",
+        "infocopy":"copyright information",
+        "privacy":"Privacy policy",
+        "location": "Our Location:",
+        "media":"Social Media",
+        "copyright":"COPYRIGHT© 2022 SETER SEGURIDAD S.A. DE C.V. / WEBSITE DEVELOPED BY "
+    },
+    "maintenance":{
+        "head":"In maintenance"
+    }
+}

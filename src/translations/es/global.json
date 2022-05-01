@@ -1,0 +1,22 @@
+{
+    "navmenu": {
+        "item1": "Nosotros",
+        "item2": "Custodia",
+        "item3": "Intramuros",
+        "item4": "Guardia Armado",
+        "item5": "Escoltas",
+        "item6": "Monitoreo"
+    },
+    "footer":{
+        "cookies":"Política de Cookies",
+        "blog":"blog",
+        "infocopy":"Información de copyright",
+        "privacy":"Aviso de privacidad",
+        "location": "Nuestra ubicación:",
+        "media":"Nuestras redes sociales",
+        "copyright":"COPYRIGHT© 2022 SETER SEGURIDAD S.A. DE C.V. / SITIO WEB DESARROLLADO POR "
+    },
+    "maintenance":{
+        "head":"En mantenimiento"
+    }
+}

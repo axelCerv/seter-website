@@ -1,38 +1,98 @@
-.App {
+@font-face {
+  font-family:d-din-condensed;
+  src: url(/public/fonts/D-DINCondensed.otf);
+  font-weight: regular;
+}
+
+*, ::after,::before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+:root{
+  --azul-claro:#526d87;
+  --azul-oscuro:#506070;
+  --blanco-seter:#e7e8ea;
+  --primary-font:'Abel', sans-serif;
+  --negro:#0a0a0a;
+  --degradado-pleca:linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(82,109,135,1) 100%);;
+}
+
+body{
+  font-family: d-din-condensed;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  background-color: #1e2225;
+}
+body.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
+
+.container{
+  width: 70%;
+  margin: auto;
+}
+.body{
+  color: #fff;
+}
+
+.mantenimiento{
+  width: 100vw;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+  color: var(--blanco-seter);
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.mantenimiento .headMant{
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.btn-azul{
+  padding: 0 50px;
+  height: 50px;
+  background-color: var(--azul-claro);
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  margin-top: 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  transition: .3s;
+}
+.btn-azul:hover{
+  background: var(--azul-oscuro);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media (max-width:1024px) {
+  .container{
+    width: 80%;
   }
-  to {
-    transform: rotate(360deg);
+  .btn-azul{
+    height: 40px;
+    font-size: 1.2rem;
+    padding: 0 30px;
+  }
+}
+
+@media (max-width:768px) {
+  .body{
+    padding-top: 110px;
+  }
+  .container{
+    width: 90%;
   }
 }

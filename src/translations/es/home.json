@@ -1,0 +1,35 @@
+{
+    "hero":{
+        "title1":"Empresa de seguridad ",
+        "title2":"con ",
+        "boldtxt":"más de 35 años",
+        "title3":"de experiencia.",
+        "btn":"Contáctanos"
+    },
+    "offer":{
+        "title1":"Nuestra",
+        "title2":"oferta",
+        "text":"Con más de 35 años de experiencia, somos una empresa sólida para cubrir sus necesidades de seguridad con nuestro personal armado y altamente capacitado ya sea para las custodias de sus cargamentos, escoltas o guardias intramuros.",
+        "btn":"Ver más"
+    },
+    "services":{
+        "title1":"Nuestros",
+        "title2":"servicios",
+        "text1":"Contamos con diversos servicios de seguridad los cuales te garantizamos cumplirán al 100% con su objetivo:",
+        "item1":"Custodia",
+        "item2":"Intramuros",
+        "item3":"Guardia armado",
+        "item4":"Escoltas",
+        "item5":"Monitoreo",
+        "text2":"Contáctanos para cotizar el servicio que necesites.",
+        "btn":"cotizar"
+    },
+    "contacto":{
+        "title":"Contáctanos",
+        "text1":"Tenemos nuestras oficinas ubicadas en Av. Tamaulipas No.3456, Col. Condesa en la Ciudad de México. O si gustas puedes dejarnos un mensaje y nosotros nos pondremos en contacto contigo.",
+        "btn":"Enviar",
+        "text2":"Si lo deseas puedes enviarnos un mensaje vía Whats App dando click en el siguiente botón.",
+        "whats":"Enviar Mensaje",
+        "send":"enviar"
+    }
+}

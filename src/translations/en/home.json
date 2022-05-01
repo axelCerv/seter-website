@@ -1,0 +1,35 @@
+{
+    "hero":{
+        "title1":"Security company",
+        "title2":"with ",
+        "boldtxt":"more than 35 years",
+        "title3":"from experience.",
+        "btn":"contact us"
+    },
+    "offer":{
+        "title1":"Our",
+        "title2":"offer",
+        "text":"With more than 35 years of experience, we are a solid company to cover your security needs with our armed and highly trained personnel, whether for the custody of your shipments, escorts or intramural guards.",
+        "btn":"More"
+    },
+    "services":{
+        "title1":"our",
+        "title2":"services",
+        "text1":"We have various security services which we guarantee will comply 100% with their objective:",
+        "item1":"Custody",
+        "item2":"Intramural",
+        "item3":"Armed guard",
+        "item4":"Guards",
+        "item5":"Monitoring",
+        "text2":"Contact us to quote the service you need.",
+        "btn":"quote"
+    },
+    "contacto":{
+        "title":"contact us",
+        "text1":"We have our offices located at Av. Tamaulipas No.3456, Col. Condesa in Mexico City. Or if you like, you can leave us a message and we will contact you.",
+        "btn":"Send",
+        "text2":"If you wish, you can send us a message via Whatsapp by clicking on the following button.",
+        "whats":"Send message",
+        "send":"send"
+    }
+}
